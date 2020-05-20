@@ -32,6 +32,23 @@ def caesar_cipher2(str, n)
   str
 end
 
+def caesar_cipher3(str, n)
+  caesar = ""
+
+  str.each_char do |c|
+    if c =~ /\W/
+      caesar << c
+      next
+    end
+
+    n.times{ c = c.next }
+    caesar << c[-1]
+  end
+
+  caesar
+end
+
 n = gets.to_i
 puts caesar_cipher("What a string!", n)
 puts caesar_cipher2("What a string!", n)
+puts caesar_cipher3("What a string!", n)
