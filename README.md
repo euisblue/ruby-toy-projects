@@ -18,7 +18,7 @@ If you don't want to share your code, feel free to omit the link and just have t
 [![Ruby](https://img.shields.io/badge/Ruby-2.7.1-red)](#) 
 
 ### Cryptography
-- [Caesar Cipher](./caesar-cipher) : [[Ruby](./caesar-cipher/caesar-cipher.rb) | [Web](https://www.jioneeu.com/toy-projects/caesar-cipher/src/)]
+- Caesar Cipher : [[code](./caesar-cipher) | [Web Demo](https://www.jioneeu.com/toy-projects/caesar-cipher/src/)]
 
 ### Language
-- [English Dictionary](https://github.com/jioneeu/mw-dictionary)
+- English Dictionary : [code](https://github.com/jioneeu/mw-dictionary)
