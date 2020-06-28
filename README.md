@@ -24,4 +24,6 @@ If you don't want to share your code, feel free to omit the link and just have t
 - English Dictionary : [[code](https://github.com/jioneeu/mw-dictionary)]
 
 ### Games
-- PvP Tic-Tac-Toe : [[code](./tictactoe)]
+- PvP Tic-Tac-Toe TUI : [[code](./tictactoe)]
+- PvP Tic-Tac-Toe GUI using Gosu: [[code](https://github.com/jioneeu/gosu-tictactoe)]
+- 
