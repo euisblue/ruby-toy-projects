@@ -5,7 +5,8 @@
 - Caesar Cipher: [code](./caesar-cipher/caesar-cipher.rb)
 
 ### Language
-- English Dictionary
+- English Dictionary 
+  + [Merriam-Webster Dictionary API Wrapper](https://github.com/jioneeu/mw-dictionary)
 
 ### Games
 - Tic-Tac-Toe TUI: [code](./tic-tac-toe/tui/ttt.rb)
