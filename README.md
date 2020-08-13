@@ -1,28 +1,12 @@
-# Toy project ideas
-[![MIT License](https://img.shields.io/badge/License-MIT-green)](#)
-
-I always had hard time coming up with a toy (side) project to do.
-So, regardless how simple or complex the "toy" project is, I'll add it to the list.
-
-Feel free to contribute by adding your toy project.
-
-If you're going to contribute, modify this `README.md` file with the following information:
-```
-- [NAME OF THE PROJECT](LINK TO THE CODE)
-```
-
-If you don't want to share your code, feel free to omit the link and just have the name with a brief explanation of the project.
-
---- 
-
-[![Ruby](https://img.shields.io/badge/Ruby-2.7.1-red)](#) 
+## Ruby Toy Projects
+[![MIT License](https://img.shields.io/badge/License-MIT-green)](#) [![Ruby](https://img.shields.io/badge/Ruby-2.7.1-red)](#) 
 
 ### Cryptography
-- Caesar Cipher : [[code](./caesar-cipher/caesar-caesar.rb) | [Web Demo](https://www.jioneeu.com/projects/caesar_cipher/index.html)]
+- Caesar Cipher: [code](./caesar-cipher/caesar-caesar.rb)
 
 ### Language
-- English Dictionary : [[code](https://github.com/jioneeu/mw-dictionary)]
+- English Dictionary
 
 ### Games
-- Tic-Tac-Toe TUI : [[code](./tictactoe)]
-- Tic-Tac-Toe GUI : [[code](https://github.com/jioneeu/gosu-tictactoe)]
+- Tic-Tac-Toe TUI
+- Tic-Tac-Toe GUI
