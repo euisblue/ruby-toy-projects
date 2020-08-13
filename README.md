@@ -8,5 +8,5 @@
 - English Dictionary
 
 ### Games
-- Tic-Tac-Toe TUI: [code](./tic-tac-toe/ttt.rb)
-- Tic-Tac-Toe GUI: [code](./tic-tac-toe/ttt.rb)
+- Tic-Tac-Toe TUI: [code](./tic-tac-toe/tui/ttt.rb)
+- Tic-Tac-Toe GUI: [code](./tic-tac-toe/gui/ttt.rb)
