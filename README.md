@@ -7,9 +7,12 @@
 ### Cryptography
 - [Caesar Cipher](./caesar_cipher/caesar_cipher.rb)
 
+### Games
+- Tic-Tac-Toe [TUI](./tic_tac_toe/tui/ttt.rb) | [GUI](./tic_tac_toe/gui/ttt.rb)
+
 ### Language
 - English Dictionary 
   + [Merriam-Webster Dictionary API Wrapper](https://github.com/jioneeu/mw-dictionary)
 
-### Games
-- Tic-Tac-Toe [TUI](./tic_tac_toe/tui/ttt.rb) | [GUI](./tic_tac_toe/gui/ttt.rb)
+### Web
+- [Subreddit Scraper](./web_scraper/subreddit/scraper.rb)
