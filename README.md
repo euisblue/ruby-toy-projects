@@ -1,6 +1,9 @@
 ## Ruby Toy Projects
 [![MIT License](https://img.shields.io/badge/License-MIT-green)](#) [![Ruby](https://img.shields.io/badge/Ruby-2.7.1-red)](#) 
 
+### Code
+- HTML Minifier: [code](./html-minifier/minify.rb)
+
 ### Cryptography
 - Caesar Cipher: [code](./caesar-cipher/caesar-cipher.rb)
 
