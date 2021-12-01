@@ -12,5 +12,4 @@
   + [Merriam-Webster Dictionary API Wrapper](https://github.com/jioneeu/mw-dictionary)
 
 ### Games
-- Tic-Tac-Toe [TUI](./tic-tac-toe/tui/ttt.rb) 
-- Tic-Tac-Toe [GUI](./tic-tac-toe/gui/ttt.rb)
+- Tic-Tac-Toe [TUI](./tic-tac-toe/tui/ttt.rb) | [GUI](./tic-tac-toe/gui/ttt.rb)
