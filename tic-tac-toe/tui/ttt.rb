@@ -1,9 +1,11 @@
+require './colorize.rb'
+
 class Player 
   attr_accessor :mark, :msg
 
   def initialize(mark)
     @mark = mark
-    @msg = " turn for [#{mark}]: "
+    @msg = " turn for [#{color(mark)}]: "
   end
 end 
 
@@ -25,7 +27,7 @@ class Board
     for i in 0...@height do 
       puts " -------------"
       for j in 0...@width do 
-        print " | #{@board[i][j]}"
+        print " | #{color(@board[i][j])}"
       end
       puts " |"
     end 
@@ -80,7 +82,7 @@ class TicTacToe
       turn = (turn == @p1) ? @p2 : @p1
     end
 
-    puts (turn == nil) ? " Draw!" : " [#{turn.mark}] won!"
+    puts (turn == nil) ? " Draw!" : " [#{color(turn.mark)}] won!"
   end 
 
   def check_winner 
