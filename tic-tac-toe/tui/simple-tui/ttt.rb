@@ -44,6 +44,7 @@ class TicTacToe
     board = @board.board
     turn = @p1
 
+    system('clear')
     @board.display
     10.times do |cnt|
       # draw
@@ -69,7 +70,7 @@ class TicTacToe
         y, x = [(pos-1)/3, (pos-1)%3]
       end
       board[y][x] = turn.mark
-      puts
+      system('clear')
       @board.display
       
       # check if anybody won
