@@ -39,7 +39,9 @@ end
 
 main
 File.open('output.dat', 'w') do |file|
+  file.puts "{"
   @links.each do |k, v|
-    file.puts "#{k}, #{v}"
+    file.puts "\"#{k}\": \"#{v}\","
   end
+  file.puts "}"
 end 
